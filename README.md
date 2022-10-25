@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DavidMartelC
-- 👀 I’m interested in frontend dev.
-- 🌱 I’m currently learning javascript.
 
 <!---
 DavidMartelC/DavidMartelC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
